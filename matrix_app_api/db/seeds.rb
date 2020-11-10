@@ -5,11 +5,15 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-Character.create([
+# Character.create([
 
-	{ name: "Neo", description: "The One" },
-	{ name: "Trinity", description: "Super hacker girl" },
-	{ name: "Morpheus", description: "The captain dude" },
-	{ name: "Agent Smith", description: "The bad guys`" },
+# 	{ name: "Neo", description: "The One" },
+# 	{ name: "Trinity", description: "Super hacker girl" },
+# 	{ name: "Morpheus", description: "The captain dude" },
+# 	{ name: "Agent Smith", description: "The bad guys`" },
 
+# ])
+
+Vehicle.create([
+    {name: "Nebuchadnezzar", style: "Spaceship"}
 ])
