@@ -10,6 +10,6 @@ Character.create([
 	{ name: "Neo", description: "The One" },
 	{ name: "Trinity", description: "Super hacker girl" },
 	{ name: "Morpheus", description: "The captain dude" },
-	{ name: "Agent Smith", description: "The bad guys" },
+	{ name: "Agent Smith", description: "The bad guys`" },
 
 ])
